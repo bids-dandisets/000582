@@ -1,0 +1,10 @@
+{
+    "InstitutionName": "Centre for the Biology of Memory, Norwegian University of Science and Technology",
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": 4800.0,
+    "RecordingDuration": 600.0,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": "n/a",
+    "BodyPart": "BRAIN",
+    "BodyPartDetails": "MEC"
+}
